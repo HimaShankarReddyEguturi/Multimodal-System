@@ -55,3 +55,4 @@ database_rag.py	Contains the core logic for the Gemini API: prompt construction,
 requirements.txt	Lists all necessary Python dependencies (google-genai, streamlit, pypdf, etc.).
 README.md	This file.
 
+local host url: http://localhost:8501/

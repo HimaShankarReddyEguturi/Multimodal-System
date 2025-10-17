@@ -1,0 +1,5 @@
+google-genai
+pypdf
+pillow
+streamlit
+# Add others as you implement docx, audio/video processing
